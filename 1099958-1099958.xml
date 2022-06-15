@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 <properties>
-<entry key="eventID">1099957</entry>
-<entry key="eventType">0</entry>
+<entry key="eventID">1099958</entry>
+<entry key="eventType">1</entry>
 <entry key="nodeID">besi-me</entry>
 <entry key="nodeType">product</entry>
-<entry key="eventCreationTime">2022-06-15 16:43:23.0</entry>
-<entry key="eventRevision">0.2</entry>
-<entry key="messageCreationTime">2022-06-15 17:27:35.791</entry>
+<entry key="eventCreationTime">2022-06-15 17:36:15.0</entry>
+<entry key="eventRevision">0.4</entry>
+<entry key="messageCreationTime">2022-06-15 17:36:41.362</entry>
 </properties>
 -->
 <!-- Configuration:
@@ -23,22 +23,22 @@
 </STEP-ProductInformation>
 
 Export from Bernard Simmons
-Effective date: 2022-06-15 17:27:35
+Effective date: 2022-06-15 17:36:41
 Classifications All
 Products "besi-me"
 Assets All
 
 Exported by database exporter.
 -->
-<STEP-ProductInformation ExportTime="2022-06-15 17:27:35" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ExportTime="2022-06-15 17:36:41" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
 
   <Products>
-    <Product ID="besi-me" UserTypeID="besi-obj" ParentID="besi-prods" Changed="true">
-      <Name Changed="true">Bernard Simmons</Name>
+    <Product ID="besi-me" UserTypeID="besi-obj" ParentID="besi-prods">
+      <Name>Bernard Simmons</Name>
       <Values>
-        <Value AttributeID="besi-first" Changed="true">Bernard</Value>
-        <Value AttributeID="besi-title" Changed="true">Systems Engineer</Value>
-        <Value AttributeID="besi-surname" Changed="true">Simmons</Value>
+        <Value AttributeID="besi-first">Bernard</Value>
+        <Value AttributeID="besi-title" Changed="true">Engineer</Value>
+        <Value AttributeID="besi-surname">Simmons</Value>
       </Values>
     </Product>
   </Products>
