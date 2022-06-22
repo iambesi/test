@@ -6,7 +6,7 @@
             <Values>
                 <Value AttributeID="besi-first">Greg</Value>
                 <Value AttributeID="besi-surname">James</Value>
-                <Value AttributeID="besi-title" Changed="true">Producer</Value>
+                <Value AttributeID="besi-title" Changed="true">Executive Producer</Value>
             </Values>
         </Product>
     </Products>
