@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<STEP-ProductInformation ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+    <Products>
+        <Product ID="besi-me" UserTypeID="besi-obj" ParentID="besi-prods">
+            <Name>Bernard Simmons</Name>
+            <Values>
+                <Value AttributeID="besi-first">Bernard</Value>
+                <Value AttributeID="besi-surname">Simmons</Value>
+                <Value AttributeID="besi-title" Changed="true">Firefighter</Value>
+            </Values>
+        </Product>
+    </Products>
+</STEP-ProductInformation>
